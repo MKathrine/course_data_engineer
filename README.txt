@@ -5,3 +5,5 @@
 
 f0f88f073ca20363ad8bc3c7fe7abc961a0237ac  1:36
 e351f9670ace5b35bb5a9294d1830002cb3959d4  2:50
+
+Ссылка на репозиторий коллеги: https://gitlab.com/dev.python/course_de 11:56
